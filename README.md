@@ -13,21 +13,23 @@ As a student of Data Analysis tutored by the Incubator HUB, I carried out my pro
 
 #### Tools Used
 
-#### Data Visualisation 
+#### Data Visualization 
 
 #### Data Sources
 - Open Source ; LMS
 
 #### Tools Used 
 - Excel
-- SQL
+- SQL - Structured Query Language
 - Power BI
 
 ### Sales Data
 
-##### Microsoft Excel
+##### Microsoft Excel [Download Here](http://www.microsoft.com)
 
-This Project entails data collected from Customers at different regions durimg a specific period of time, analyzing the performance of sales of a retail store. Pivot table was used to summarise the total sales by product, by region and by month. Excel formula was used to calculate average revenue per product, total revenue by region.
+1. This entails data collected from Customers at different regions durimg a specific period of time, analyzing the performance of sales of a retail store. 
+2. Data cleaning
+3.  Data Visualization
 
   
 
