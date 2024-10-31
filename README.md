@@ -1,17 +1,26 @@
 # LITA_Capstone_Project
 
+[Project Overview](#project-overview)
+
+[Project Title](#project-title)
+
+[Data Sources](#data-sources)
+
+[Tools Used](#tools-used)
+
+
 ## Project Overview
 
 As a student of Data Analysis tutored by the Incubator HUB, I carried out my project by exploring and implementing tools used during our classes for this project, showing my analytic skills and performance.
 
-### Project Title: Sales Data
+### Project Title
 
-### Project Title: Customer Data
+### Sales Data
+
+### Customer Data
 
 
 #### Data Sources
-
-#### Tools Used
 
 #### Data Visualization 
 
@@ -36,7 +45,7 @@ As a student of Data Analysis tutored by the Incubator HUB, I carried out my pro
    SELECT *FROM TABLE [dbo].[LITA Capstone Project Dataset]
    GROUP BY Region
    ```
-### Data Cleaning And Prparation
+### Data Cleaning And Preparation
 
 ### Explorative Data Analysis
 
