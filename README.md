@@ -1,12 +1,12 @@
-# LITA Capstone Project
+# LITA_Capstone_Project
 
 ## Project Overview
 
-As a student of Data Analysis tutored by the Incubator HUB, I carried out my project by exploring and implementing tools used during our classes for this project, showing my analytic skills.
+As a student of Data Analysis tutored by the Incubator HUB, I carried out my project by exploring and implementing tools used during our classes for this project, showing my analytic skills and performance.
 
-### Sales Data
+### Project Title: Sales Data
 
-### Customer Data
+### Project Title: Customer Data
 
 
 #### Data Sources
@@ -26,7 +26,7 @@ As a student of Data Analysis tutored by the Incubator HUB, I carried out my pro
 ### Sales Data
 
 ##### Microsoft Excel
-As a student of Data Analysis,tutored by The Incubator HUB, I carried out my project by exploring and implementing tools used during classes, showing my analytic skills.
+
 This Project entails data collected from Customers at different regions durimg a specific period of time, analyzing the performance of sales of a retail store. Pivot table was used to summarise the total sales by product, by region and by month. Excel formula was used to calculate average revenue per product, total revenue by region.
 
   
