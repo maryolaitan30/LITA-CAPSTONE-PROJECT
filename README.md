@@ -53,6 +53,7 @@ The following action was performed in the initial stage of Data Cleaning;
 This involved exploring of the Data to answer some questions about the Data such as;
 - Total Revenue By Region
 - Total Sales Of Product By Region
+- Total Sales of peoduct Per Month
 - Total Sales Of Product By Transaction Category
 - Quantity Of Product Sold By Region Per Year
 - Total Sales of Product Per Year
