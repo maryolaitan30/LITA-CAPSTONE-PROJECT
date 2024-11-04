@@ -21,6 +21,7 @@ As a student of Data Analysis tutored by the Incubator HUB, I carried out my pro
 
 ### Data Sources
 - Open Source ; LMS
+- Excel csv
 
 ### Data Cleaning and Preparations
 ```
@@ -45,7 +46,9 @@ The following action was performed in the initial stage of Data Cleaning;
 
 
 ### Explorative Data Analysis
-For Excel
+
+#### Excel
+
 ```
 This involved exploring of the Data to answer some questions about the Data such as;
 - Total Revenue By Region
@@ -146,7 +149,12 @@ Where OrderDate Between '2024-06-01' AND '2024-09-30'
 ```
 #### Data Visualization 
 
+
+
 ### Customer Data
+#### Excel
+
+
 SQL
 ```SQL
 Select *From [dbo].[Customer Data];
