@@ -149,6 +149,15 @@ From [dbo].[Sales Data Sql]
 Where OrderDate Between '2024-06-01' AND '2024-09-30'
 ```
 #### Data Visualization 
+![image](https://github.com/user-attachments/assets/ae99b007-cf0f-4334-bbf7-c9ed6d59e471)
+
+![image](https://github.com/user-attachments/assets/ad8fa059-c42c-4649-b2bf-06ae4ac3889b)
+
+![image](https://github.com/user-attachments/assets/eeac0f9c-237f-435d-8041-89922a3d6054)
+
+![image](https://github.com/user-attachments/assets/39e0d6be-13cc-4b85-a8a2-e11932f3d4db)
+
+![image](https://github.com/user-attachments/assets/ca7ee8bf-4d82-40b7-be1b-998e7c2f9c8d)
 
 
 
