@@ -19,6 +19,8 @@ As a student of Data Analysis tutored by the Incubator HUB, I carried out my pro
 ### Project Title:  
 #### Sales Data
 
+#### Data Description
+
 ### Data Sources
 - Open Source ; LMS
 - Excel csv
@@ -91,6 +93,7 @@ SQL For Customer Data
 
 ``` SQL
 Retrieve the total sales for each product category
+
 SELECT *PRODUCT, SUM(Quantity) as Total_Sales
 From [dbo].[Sales Data Sql]
 GROUP BY Product;
