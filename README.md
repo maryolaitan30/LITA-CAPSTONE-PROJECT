@@ -20,7 +20,10 @@ As a student of Data Analysis tutored by the Incubator HUB, I carried out my pro
 #### Sales Data
 
 #### Data Description
-
+1. Product; The type of item(s) purchased or bought by customers.
+2. Region; The geographical location
+3. OrderID; This is the unique order identification purchased by a customer.
+4. 
 ### Data Sources
 - Open Source ; LMS
 - Excel csv
@@ -34,13 +37,13 @@ The following action was performed in the initial stage of Data Cleaning;
 ```
 
 #### Tools Used 
-- Microsoft Excel
+- Microsoft Excel [Download Here](http://www.microsoft.com
 - SQL - Structured Query Language
-- Power BI
+- Power BI [Download Here](http://www.microsoft.com
 
 ### Sales Data
 
-- Microsoft Excel [Download Here](http://www.microsoft.com
+- Microsoft Excel
 
   1. This entails data collected from Customers at different regions durimg a specific period of time, analyzing the performance of sales of a retail store. 
   2. Data cleaning
