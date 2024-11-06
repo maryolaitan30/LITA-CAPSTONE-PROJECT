@@ -48,6 +48,12 @@ The following action was performed in the initial stage of Data Cleaning;
   1. This entails data collected from Customers at different regions durimg a specific period of time, analyzing the performance of sales of a retail store. 
   2. Data cleaning
   3. Data Visualization
+ 
+ #### Data Visualization 
+  
+![Sales Data Report](https://github.com/user-attachments/assets/1f0f8781-fa0f-419f-b4c9-80ffecb41865)
+
+     
 
 
 ### Explorative Data Analysis
@@ -154,17 +160,6 @@ Select Distinct PRODUCT
 From [dbo].[Sales Data Sql]
 Where OrderDate Between '2024-06-01' AND '2024-09-30'
 ```
-#### Data Visualization 
-![image](https://github.com/user-attachments/assets/ae99b007-cf0f-4334-bbf7-c9ed6d59e471)
-
-![image](https://github.com/user-attachments/assets/ad8fa059-c42c-4649-b2bf-06ae4ac3889b)
-
-![image](https://github.com/user-attachments/assets/eeac0f9c-237f-435d-8041-89922a3d6054)
-
-![image](https://github.com/user-attachments/assets/39e0d6be-13cc-4b85-a8a2-e11932f3d4db)
-
-![image](https://github.com/user-attachments/assets/ca7ee8bf-4d82-40b7-be1b-998e7c2f9c8d)
-
 
 
 ### Customer Data
