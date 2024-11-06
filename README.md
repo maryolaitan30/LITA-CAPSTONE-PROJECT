@@ -55,8 +55,13 @@ The following action was performed in the initial stage of Data Cleaning;
   3. Data Visualization
  
  #### Data Visualization 
-  
-![Sales Data Report](https://github.com/user-attachments/assets/1f0f8781-fa0f-419f-b4c9-80ffecb41865)
+![image](https://github.com/user-attachments/assets/b1427860-0a2b-43b6-8be9-e99b4a4fb8c6)
+
+![image](https://github.com/user-attachments/assets/641e82c4-d2e5-411f-8b93-7a41df199304)
+
+![image](https://github.com/user-attachments/assets/6dbc701f-5ab6-4743-a029-8dbb285a36c4)
+ 
+![image](https://github.com/user-attachments/assets/c4178356-5962-4d3e-ad1d-1fe8be6f27bb)
 
      
 
@@ -179,6 +184,24 @@ Where OrderDate Between '2024-06-01' AND '2024-09-30'
 6. Subscription End: This is the period of expiration of subscription
 7. Subscription Duration: This is the duration between the purchase and expiration of subscription.
 8. Revenue: Total amount generated when subscription was made.
+
+#### Data Visualization
+ 
+![image](https://github.com/user-attachments/assets/002ad0a3-2245-4950-8a71-9af81356a9cb)
+
+
+![image](https://github.com/user-attachments/assets/cbc6c6cb-a072-4d73-a104-1da926b5647b)
+
+
+![image](https://github.com/user-attachments/assets/c373d941-2cf4-4e14-9296-c348e9645705)
+
+
+![image](https://github.com/user-attachments/assets/99328586-01ac-4ecc-a884-5db1c0d34eab)
+
+
+![image](https://github.com/user-attachments/assets/dfd963f1-6412-4aa3-a7ba-9bd5f4863ac1)
+
+
    
 ![image](https://github.com/user-attachments/assets/a9554b02-4601-4cee-8ad6-efd889dade68)
 
