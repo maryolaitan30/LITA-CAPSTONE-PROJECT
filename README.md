@@ -20,10 +20,15 @@ As a student of Data Analysis tutored by the Incubator HUB, I carried out my pro
 #### Sales Data
 
 #### Data Description
-1. Product; The type of item(s) purchased or bought by customers.
-2. Region; The geographical location
-3. OrderID; This is the unique order identification purchased by a customer.
-4. 
+1. Product: The type of item(s) purchased or bought by customers.
+2. Region: The geographical location where transaction was made (North,East, West and South).
+3. OrderID: This is the unique order identification purchased by a customer.
+4. Unit Price: The price per unit of product purchased in a transaction.
+5. Order Date: This is the date order was made was customers.
+6. Customer Id: This is the unique identification of customers. 
+7. Quantity: The number of product purchased by customer.
+
+   
 ### Data Sources
 - Open Source ; LMS
 - Excel csv
@@ -164,6 +169,18 @@ Where OrderDate Between '2024-06-01' AND '2024-09-30'
 
 ### Customer Data
 #### Excel
+
+#### Data Description
+1. Customer Id: This is the unique identification of customers.
+2. Customer Name: The unique of customers.
+3. Region: The geographical location where transaction is made.
+4. Subscription Type: The type of subscription 
+5. Subscription Start: this is the time when subdcription was made.
+6. Subscription End: This is the period of expiration of subscription
+7. Subscription Duration: This is the duration between the purchase and expiration of subscription.
+8. Revenue: Total amount generated when subscription was made.
+   
+![image](https://github.com/user-attachments/assets/a9554b02-4601-4cee-8ad6-efd889dade68)
 
 
 SQL
