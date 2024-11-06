@@ -42,9 +42,9 @@ The following action was performed in the initial stage of Data Cleaning;
 ```
 
 #### Tools Used 
-- Microsoft Excel [Download Here](http://www.microsoft.com
+- Microsoft Excel [Download Here](http://www.microsoft.com)
 - SQL - Structured Query Language [Download here](http://www.mysql.com)
-- Power BI [Download Here](http://www.microsoft.com
+- Power BI [Download Here](http://www.microsoft.com)
 
 ### Sales Data
 
