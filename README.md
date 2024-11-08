@@ -269,3 +269,8 @@ Sum(CASE WHEN SubscriptionEnd IS NOT NULL THEN 1 ElSE 0 END) As Cancelled_Subscr
 From [dbo].[Customer Data]
 ```
 
+### Power BI 
+
+#### Visualization 
+
+Sales Data
