@@ -53,7 +53,8 @@ The following action was performed in the initial stage of Data Cleaning;
 
   1. This entails data collected from Customers at different regions durimg a specific period of time, analyzing the performance of sales of a retail store. 
   2. Data cleaning
-  3. Data Visualization
+  3. Pivot table for summarization
+  4. Data Visualization
  
  #### Data Visualization 
 ![image](https://github.com/user-attachments/assets/b1427860-0a2b-43b6-8be9-e99b4a4fb8c6)
@@ -269,8 +270,28 @@ Sum(CASE WHEN SubscriptionEnd IS NOT NULL THEN 1 ElSE 0 END) As Cancelled_Subscr
 From [dbo].[Customer Data]
 ```
 
-### Power BI 
+## Power BI 
+- Get Data
+- Data Transformation
+- Data Cleaning
+- Data Visualization
+  1. I added new measure and new column to get average revenue and subscription duration respectively.
+  2. I used pie chaet and slices visuals to get the percentage of subscription type and percentage of revenue cancelled by region under customer data.
 
-#### Visualization 
+  
+### Visualization 
 
-Sales Data
+#### Sales Data
+
+![image](https://github.com/user-attachments/assets/22f61521-a1a4-453e-9a3d-d2226c77ce77)
+- The order date is between 2023 and 2024.
+
+#### Customer Data
+![image](https://github.com/user-attachments/assets/81fd4556-54e3-43b6-997d-3426730e59c4)
+
+![Pbi customer](https://github.com/user-attachments/assets/d57587fc-c667-4e90-9cf9-a0a9a1240eae)
+
+- The subscription date is between 2022 and 2023.
+- The subscription duration of this service is between 365 and 366 days.
+
+
